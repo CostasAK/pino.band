@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --font-body: Optima, Candara, "Noto Sans", source-sans-pro, sans-serif;
+  --font-hand: "Segoe Print", "Bradley Hand", Chilanka, TSCu_Comic, casual,
+    cursive;
+}
